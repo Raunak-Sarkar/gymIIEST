@@ -22,16 +22,33 @@ Community & Support: View gym rules, timings, and connect with our team.
 Here's a glimpse of what GymIIEST has to offer:
 
 Landing Page
+<img width="1919" height="917" alt="Screenshot 2025-08-15 122547" src="https://github.com/user-attachments/assets/2a768296-72c3-4af5-85f9-51edc468014f" />
 
 Training Programs
+<img width="1918" height="906" alt="Screenshot 2025-08-15 122607" src="https://github.com/user-attachments/assets/56bca79e-545c-47f6-b768-6551debbbbd6" />
+
+Working On
+<img width="1919" height="899" alt="Screenshot 2025-08-15 122627" src="https://github.com/user-attachments/assets/6bef4f8c-8d99-4c0f-9ec4-e88ab69cff9f" />
+
+Review Section
+<img width="1919" height="906" alt="Screenshot 2025-08-15 122644" src="https://github.com/user-attachments/assets/84169090-f72e-455f-a3f4-514577e1c898" />
 
 User Dashboard & Features
+<img width="1919" height="907" alt="Screenshot 2025-08-15 122924" src="https://github.com/user-attachments/assets/909a4650-4d28-4cbc-a3ed-7e38858e4602" />
+<img width="1919" height="903" alt="Screenshot 2025-08-15 122938" src="https://github.com/user-attachments/assets/f1047285-fa49-4258-af83-474a146ca1b8" />
 
 User Profile
+<img width="1919" height="907" alt="Screenshot 2025-08-15 122956" src="https://github.com/user-attachments/assets/ce2c80e9-4ed7-4553-9022-dbbafff0e13b" />
+
+About Page
+<img width="1919" height="893" alt="Screenshot 2025-08-15 123054" src="https://github.com/user-attachments/assets/b1ce93a2-d452-409a-819f-e572b9dd2743" />
 
 Login & Registration
+<img width="1919" height="902" alt="Screenshot 2025-08-15 122705" src="https://github.com/user-attachments/assets/1c9092b5-289f-4ae9-9d17-974b5382d920" />
+<img width="1919" height="905" alt="Screenshot 2025-08-15 122751" src="https://github.com/user-attachments/assets/de4b3bab-0461-47e2-abb7-2cf4b6c69f7c" />
 
 Developer Team
+<img width="1918" height="906" alt="Screenshot 2025-08-15 123018" src="https://github.com/user-attachments/assets/d44ba290-f7b0-4e0e-a3e2-a3c9abe0ae03" />
 
 🛠️ Getting Started
 To get a local copy up and running, follow these simple steps.
@@ -42,7 +59,7 @@ Make sure you have Node.js and npm installed on your machine.
 Installation & Running the App
 Clone the repository:
 
-git clone https://github.com/your-username/gymiiest.git
+git clone https://github.com/Raunak-Sarkar/gymiiest.git
 
 Navigate to the project directory:
 
