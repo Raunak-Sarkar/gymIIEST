@@ -1,16 +1,7 @@
-<div align="center">
-<br />
-<h1>GymIIEST - Your Ultimate Fitness Companion</h1>
-<strong>A comprehensive web application designed to help you achieve your fitness goals.</strong>
-<br />
-<br />
-</div>
-
-Welcome to GymIIEST! Whether you're looking to build muscle, lose weight, or simply stay active, our platform provides you with the tools and resources you need to succeed.
+GymIIEST - Your Ultimate Fitness Companion
+Welcome to GymIIEST, a comprehensive web application designed to help you achieve your fitness goals. Whether you're looking to build muscle, lose weight, or simply stay active, our platform provides you with the tools and resources you need to succeed.
 
 🚀 Features
-Our platform is packed with features to help you on your fitness journey:
-
 User Authentication: Secure login and registration system with options for email/password and Google sign-in.
 
 Personalized Dashboard: A dedicated space for users to view their profile, including personal details, BMI, and booking information.
@@ -34,35 +25,19 @@ Landing Page
 
 Training Programs
 
-
-
-
-
 User Dashboard & Features
 
 User Profile
 
-
-
-
-
 Login & Registration
 
 Developer Team
-
-
-
-
 
 🛠️ Getting Started
 To get a local copy up and running, follow these simple steps.
 
 Prerequisites
 Make sure you have Node.js and npm installed on your machine.
-
-Node.js
-
-npm
 
 Installation & Running the App
 Clone the repository:
@@ -88,8 +63,6 @@ node index.js
 The application should now be running on your local machine.
 
 💻 Technologies Used
-This project is built with a modern tech stack:
-
 Frontend: React.js
 
 Backend: Node.js, Express.js
@@ -105,6 +78,4 @@ Raunak Sarkar - MERN-Stack Developer
 
 Digwijoy Pandit - ML Developer
 
-<div align="center">
 Made with ❤️ by Raunak and Digwijoy.
-</div>
